@@ -74,7 +74,7 @@
 
 - 💻 Apaixonado por tecnologia
 - ⚡ Sempre buscando evoluir na área de TI
-- 🐧 Interesse em sistemas Linux e virtualização
+
 
 ---
 
