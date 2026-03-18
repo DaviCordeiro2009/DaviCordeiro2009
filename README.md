@@ -66,6 +66,7 @@
 ## 🌐 Onde me encontrar
 
 - 💼 LinkedIn: (Davi Maciel Cordeiro)
+  https://www.linkedin.com/feed/
 - 📧 Email: (Davimacielcordeiro2@gmail.com)
 
 ---
