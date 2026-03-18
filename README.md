@@ -1,16 +1,72 @@
-## Hi there 👋
+# 👋 Olá, eu sou Davi Cordeiro!
 
-<!--
-**DaviCordeiro2009/DaviCordeiro2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante do **SESI SENAI**  
+💻 Cursando **Desenvolvimento de Sistemas**  
+🚀 Interessado na área de **Tecnologia da Informação (TI)**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+- 🎯 Focado em aprender e evoluir na área de desenvolvimento
+- 🌱 Atualmente estudando **JavaScript, HTML e CSS**
+- 💡 Interesse em desenvolvimento web
+- 🤝 Aberto a colaborar em projetos e aprender com outros devs
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 💻 Linguagens
+- JavaScript
+- HTML
+- CSS
+
+### 🧰 IDE
+- Visual Studio Code
+
+### 🖥️ Sistemas Operacionais
+- Windows
+- Linux
+
+### 📦 Virtualização
+- VirtualBox
+
+### ⚙️ Ferramentas
+- Git
+- GitHub
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviCordeiro2009&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviCordeiro2009&layout=compact)
+
+---
+
+## 📌 Objetivos
+
+- 📚 Aprender novas tecnologias e boas práticas
+- 🌐 Me tornar um desenvolvedor web
+- 🛠️ Criar projetos próprios e práticos
+
+---
+
+## 🌐 Onde me encontrar
+
+- 💼 LinkedIn: (Davi Maciel Cordeiro)
+- 📧 Email: (Davimacielcordeiro2@gmail.com)
+
+---
+
+## ✨ Curiosidades
+
+- 💻 Apaixonado por tecnologia
+- ⚡ Sempre buscando evoluir na área de TI
+- 🐧 Interesse em sistemas Linux e virtualização
+
+---
+
+⭐ Obrigado por visitar meu perfil!
