@@ -28,12 +28,18 @@
 ### 🧰 IDE
 - Visual Studio Code
 
+  ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+
 ### 🖥️ Sistemas Operacionais
 - Windows
 - Linux
 
+![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ### 📦 Virtualização
 - VirtualBox
+
+  ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&logoColor=white)
 
 ### ⚙️ Ferramentas
 - Git
