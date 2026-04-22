@@ -79,4 +79,4 @@
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+⭐ Obrigado por visitar meu perfil! <img src="https://komarev.com/ghpvc/?username=DaciCordeiro2009&color=blue"/>
